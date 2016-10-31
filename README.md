@@ -5,11 +5,6 @@
   </h2>
 </h1>
 
+<h1 size="12px, 12px" style="color:red;" align="center"> Test </h1>
 
 
-<style>
-.MainText {
-    color: greenyellow; 
-    font-family: sans-serif;
-}
-</style> 
